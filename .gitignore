@@ -1,12 +1,69 @@
 ```
 # Compiled and build artifacts
 *.class
+*.jar
+*.war
+*.ear
 target/
+build/
+
 # Dependencies
-.m2/
+lib/
+libs/
+
 # Logs and temp files
 *.log
+*.tmp
+*.swp
+
+# Environment
+.env
+.env.local
+*.env.*
+
 # Editors
 .vscode/
 .idea/
+*.iml
+*.iws
+*.ipr
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+test-results/
+coverage/
+htmlcov/
+*.coverage
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+*.tar
+*.tgz
+*.gz
+*.rar
+*.zip
+*.7z
+*.jar
+*.war
+*.ear
+*.sar
+*.rar
+*.class
+*.java~
+*.properties
+*.log
+*.cache
+*.lock
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
 ```

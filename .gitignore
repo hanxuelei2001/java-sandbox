@@ -1,0 +1,12 @@
+```
+# Compiled and build artifacts
+*.class
+target/
+# Dependencies
+.m2/
+# Logs and temp files
+*.log
+# Editors
+.vscode/
+.idea/
+```
